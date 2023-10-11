@@ -3,9 +3,10 @@
 
 ## Objective
 The project's primary objective is to create a machine learning model that can accurately estimate movie ratings based on various features, including genre, director, and actors.
+
 ##Methods/Steps
 
-#Data Exploration
+Data Exploration
 The project involves thorough data exploration to understand the dataset's characteristics, including missing values, data types, and statistical summaries.
 
 #Data Preprocessing
