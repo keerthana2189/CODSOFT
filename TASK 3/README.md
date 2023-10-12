@@ -1,9 +1,9 @@
-##**DATA SCIENCE PROJECT: IRIS FLOWERS CLASSIFICATION**
+## **DATA SCIENCE PROJECT: IRIS FLOWERS CLASSIFICATION**
 
-##**Objective**
+## **Objective**
 Develop a machine learning model to accurately classify Iris flowers into their respective species using sepal and petal measurements from the Iris dataset. Evaluate the model's performance primarily based on accuracy and choose the best-performing model for this classification task.
 
-###**METHODOLOGY**
+### **METHODOLOGY**
 
 **Importing Libraries**
 
