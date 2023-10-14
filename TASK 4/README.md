@@ -1,7 +1,7 @@
 ### **DATA SCIENCE PROJECT : SALES PREDICTION USING PYTHON**
 
 
-## **Objective:**The objective is to predict future sales, considering factors like advertising expenditure, target audience segmentation, and advertising platform selection.
+## **Objective:** The objective is to predict future sales, considering factors like advertising expenditure, target audience segmentation, and advertising platform selection.
 Sales prediction is crucial for businesses, enabling them to optimize advertising strategies and maximize sales potential.
 
 ## *Methology*
@@ -11,7 +11,7 @@ Sales prediction is crucial for businesses, enabling them to optimize advertisin
 **Loading Data:** Data loading is the initial step, often involving the import of datasets containing historical sales and related factors.
 Data should be structured, cleaned, and prepared for analysis.
 
-**Data Preprocessing:**Data preprocessing involves tasks like handling missing values, encoding categorical data, and scaling numerical features.
+**Data Preprocessing:** Data preprocessing involves tasks like handling missing values, encoding categorical data, and scaling numerical features.
 Clean data is essential for accurate model building.
 
 **EDA (Exploratory Data Analysis):** EDA is critical for understanding the dataset and relationships between variables.
@@ -22,7 +22,7 @@ It includes tasks like data visualization, summary statistics, and identifying p
 **Model Building:** Model building includes selecting an appropriate algorithm (e.g., Linear Regression or Logistic Regression) for sales prediction.
 The model is trained on historical data to capture relationships between features and sales.
 
-**Logistic Regression:**Logistic Regression is a common choice when the target variable is categorical (e.g., binary classification).
+**Logistic Regression:** Logistic Regression is a common choice when the target variable is categorical (e.g., binary classification).
 It's suitable for predicting outcomes like customer purchases or no purchases.
 
 **Model Evaluation:** Model evaluation is essential for assessing predictive performance.
