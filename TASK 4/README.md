@@ -1,7 +1,9 @@
 ### **DATA SCIENCE PROJECT : SALES PREDICTION USING PYTHON**
 
 
-## **Objective:** The objective is to predict future sales, considering factors like advertising expenditure, target audience segmentation, and advertising platform selection.
+## *Objective:*
+
+The objective is to predict future sales, considering factors like advertising expenditure, target audience segmentation, and advertising platform selection.
 Sales prediction is crucial for businesses, enabling them to optimize advertising strategies and maximize sales potential.
 
 ## *Methology*
