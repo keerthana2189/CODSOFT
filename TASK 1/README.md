@@ -1,6 +1,4 @@
-
-
-
+### Data Science project : TITANIC SURVIVAL PREDICTION
 
 ## Objective:
 
